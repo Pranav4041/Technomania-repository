@@ -1,0 +1,23 @@
+# python
+__pycache__/
+*.pyc
+
+# env
+venv/
+.env
+
+# datasets
+dataset/
+augmented/
+failures/
+outputs/
+
+# images/results
+*.png
+*.jpg
+
+# vscode
+.vscode/
+
+# checkpoints
+checkpoints/
